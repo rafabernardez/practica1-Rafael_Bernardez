@@ -5,5 +5,5 @@ function validacion() {
 		alert("datos no validos");
 		return false;
 	}
-	else miformularios.submit();
+	else miformulario.submit();
 }
